@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /status.fearnopeer
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "Fear No Peer Website Status"
+  introTitle: "Fear No Peer - Network Status"
   introMessage: Service Status
   navbar:
     - title: Status
