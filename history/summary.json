@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fearnopeer.com.ico",
     "slug": "fear-no-peer",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 526,
-    "timeDay": 698,
-    "timeWeek": 551,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 534,
+    "timeDay": 827,
+    "timeWeek": 568,
+    "timeMonth": 534,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2024-03-31": 48
     }
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 164,
     "timeDay": 162,
-    "timeWeek": 245,
+    "timeWeek": 208,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {}
