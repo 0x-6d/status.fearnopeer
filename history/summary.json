@@ -4,7 +4,7 @@
     "url": "https://fearnopeer.com",
     "icon": "https://icons.duckduckgo.com/ip3/fearnopeer.com.ico",
     "slug": "fear-no-peer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 692,
     "timeYear": 603,
     "dailyMinutesDown": {
+      "2024-11-05": 0,
       "2024-10-29": 107,
       "2024-10-09": 101,
       "2024-10-08": 51,
