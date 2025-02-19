@@ -1,7 +1,7 @@
 url: https://fearnopeer.com
-status: down
+status: degraded
 code: 403
-responseTime: 86
-lastUpdated: 2025-02-18T23:08:16.904Z
+responseTime: 5164
+lastUpdated: 2025-02-19T10:25:33.200Z
 startTime: 2024-03-30T08:23:36.166Z
 generator: Upptime <https://github.com/upptime/upptime>
